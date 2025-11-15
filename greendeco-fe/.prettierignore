@@ -1,0 +1,10 @@
+.next
+dist
+node_modules
+package-lock.json
+.husky
+.prettierignore
+.eslintignore
+.gitignore
+README.md
+
